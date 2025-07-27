@@ -1,0 +1,10 @@
+@"
+sonific_env/
+.streamlit/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
+"@ | Out-File -Encoding UTF8 .gitignore
