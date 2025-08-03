@@ -152,7 +152,7 @@ Here's the updated README section for the AI Assistant setup, removing reference
 
 ## 🤖 AI Assistant Setup (Optional)
 
-The AI assistant provides expert analysis of your generated sonification files and helps interpret audio quality. This feature is **completely optional** - the platform works perfectly without it.
+The AI assistant provides expert analysis of your generated sonification files and helps interpret audio quality. This feature is **completely optional** - the platform works perfectly without it.(Having some issues with the integration keep looking at https://github.com/nak2002k/Sonific for updates) 
 
 ### OpenAI-Compatible Endpoint Configuration
 
