@@ -86,7 +86,7 @@ midiutil>=1.2.1
 langchain-openai>=0.1.0
 langchain-core>=0.2.0
 langchain-community>=0.2.0
-
+matplotlib
 # Web Application
 streamlit>=1.28.0
 plotly>=5.15.0
